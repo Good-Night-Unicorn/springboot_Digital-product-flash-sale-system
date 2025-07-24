@@ -1,4 +1,4 @@
-## 基于Springboot+vue的网上商城系统(源代码+LW+数据库)
+## 基于Springboot+vue的数码产品抢购系统(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
